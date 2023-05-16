@@ -1,4 +1,5 @@
-﻿AIUtil.SetContext WpfWindow("wpftypename:=window", "regexpwndtitle:=Micro Focus MyFlight Sample Application", "devname:=Micro Focus MyFlight Sample Application")
+﻿' new comment
+AIUtil.SetContext WpfWindow("wpftypename:=window", "regexpwndtitle:=Micro Focus MyFlight Sample Application", "devname:=Micro Focus MyFlight Sample Application")
 AIUtil("text_box", "Username").Type "john"
 AIUtil("text_box", "Password").Type "hp"
 AIUtil("button", "OK").Click
