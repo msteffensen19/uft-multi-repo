@@ -1,4 +1,5 @@
 ﻿' This is a simple AOS (public) script that clicks on several product categories and items. @@ script infofile_;_ZIP::ssf45.xml_;_
+'new comment
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategory").Click @@ script infofile_;_ZIP::ssf46.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("$44.99").Click @@ script infofile_;_ZIP::ssf47.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME").Click @@ script infofile_;_ZIP::ssf48.xml_;_
