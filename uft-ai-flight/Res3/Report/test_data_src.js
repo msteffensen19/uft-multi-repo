@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\demo\\uft-ai-flight-script\\uft-ai-flight\\Res3',namePairs:[]}]};
